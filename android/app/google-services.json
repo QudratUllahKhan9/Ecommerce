@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993846481192",
+    "project_id": "ecommerce-6311d",
+    "storage_bucket": "ecommerce-6311d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993846481192:android:a9c5ee21ea032ff759801d",
+        "android_client_info": {
+          "package_name": "com.buyright"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVhssS6v0qKZ6SfCqXB8-spC_S4zeXS-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
